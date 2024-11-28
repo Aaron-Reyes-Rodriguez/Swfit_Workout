@@ -1,4 +1,4 @@
-# Workout Planner - iOS App
+# Swift Workout - iOS App - Workout Planner
 
 ## Overview
 
